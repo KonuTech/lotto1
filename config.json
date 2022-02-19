@@ -1,0 +1,53 @@
+{
+  "TICKETS": {
+    "SEPARATOR": ",",
+    "DECIMAL": "TODO:",
+    "ENCODING": "utf-8",
+    "FLOAT_PRECISION": "TODO:",
+    "INDEX_COLUMNS": [
+      "TODO:"
+    ],
+    "COLUMNS_WITH_NAN_VALUES": [
+      "TODO:"
+    ],
+    "DATES": [
+      "DateOfBirth",
+      "Selfban_start",
+      "Selfban_end",
+      "Registration_date"
+    ],
+    "DTYPE": {
+      "AccountId": "object",
+      "PlayerNr": "object",
+      "Country": "object",
+      "DateOfBirth": "object",
+      "Source": "object",
+      "Selfban_start": "int",
+      "Selfban_end": "int",
+      "First_genre": "object",
+      "Registration_date": "int",
+      "Currency": "object"
+    }
+  },
+  "TICKETS_LINES": {
+    "SEPARATOR": ",",
+    "DECIMAL": "TODO:",
+    "ENCODING": "utf-8",
+    "FLOAT_PRECISION": "TODO:",
+    "INDEX_COLUMNS": [
+      "TODO:"
+    ],
+    "COLUMNS_WITH_NAN_VALUES": [
+      "TODO:"
+    ],
+    "DATES": [
+      "Selfban_start",
+      "Selfban_end"
+    ],
+    "DTYPE": {
+      "AccountId": "object",
+      "Selfban_start": "int",
+      "Selfban_end": "int"
+    }
+  }
+}
