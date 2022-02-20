@@ -1,4 +1,5 @@
 {
+  "WINNING_NUMBERS": ["11", "19", "21", "33", "42"],
   "TICKETS": {
     "SEPARATOR": ",",
     "DECIMAL": "TODO:",
