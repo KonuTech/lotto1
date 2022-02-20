@@ -18,16 +18,7 @@
       "Registration_date"
     ],
     "DTYPE": {
-      "AccountId": "object",
-      "PlayerNr": "object",
-      "Country": "object",
-      "DateOfBirth": "object",
-      "Source": "object",
-      "Selfban_start": "int",
-      "Selfban_end": "int",
-      "First_genre": "object",
-      "Registration_date": "int",
-      "Currency": "object"
+      "TODO:": "TODO:"
     }
   },
   "TICKETS_LINES": {
@@ -46,9 +37,7 @@
       "Selfban_end"
     ],
     "DTYPE": {
-      "AccountId": "object",
-      "Selfban_start": "int",
-      "Selfban_end": "int"
+      "TODO:": "TODO:"
     }
   }
 }
