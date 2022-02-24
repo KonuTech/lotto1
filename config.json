@@ -1,6 +1,7 @@
 {
   "WINNING_NUMBERS": ["11", "19", "21", "33", "42"],
   "TICKETS": {
+    "FILE_NAME": "tickets.xlsx",
     "SEPARATOR": ",",
     "DECIMAL": "TODO:",
     "ENCODING": "utf-8",
@@ -12,16 +13,14 @@
       "TODO:"
     ],
     "DATES": [
-      "DateOfBirth",
-      "Selfban_start",
-      "Selfban_end",
-      "Registration_date"
+      "TODO:"
     ],
     "DTYPE": {
       "TODO:": "TODO:"
     }
   },
   "TICKETS_LINES": {
+    "FILE_NAME": "tickets_lines.xlsx",
     "SEPARATOR": ",",
     "DECIMAL": "TODO:",
     "ENCODING": "utf-8",
@@ -33,8 +32,7 @@
       "TODO:"
     ],
     "DATES": [
-      "Selfban_start",
-      "Selfban_end"
+      "TODO:"
     ],
     "DTYPE": {
       "TODO:": "TODO:"
